@@ -1,15 +1,15 @@
 
 import './App.css'
-import Card from './Card'
+import Formulario from './Formulario'
 
 function App() {
   
 
   return (
     <>
-    <h1>Carga de estudiantes</h1>
-    <form></form>
-      <Card></Card>
+    <h1>CREA TU TERRENEITOR</h1>
+    <Formulario/>
+    
     </>
   )
 }
